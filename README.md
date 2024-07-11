@@ -34,7 +34,9 @@ The Game of Life is a classic example of a cellular automaton where each cell on
 
 ## Examples
 
-Images or GIFs of interesting patterns like the Glider, Oscillator, and Still Life to illustrate the game's functionality.
+![alt text](https://lh3.googleusercontent.com/C6HkzTZOrAtlLPkY6tHcUQMX1BoahTG_Gt4ueO_G0dV-J6dqSbT7ElD6Ddg_vg2cNI1D9cIBQMUNaPWIkPrqGVpbE9RY_9Q3Fn0k)
+
+![alt text](https://lh3.googleusercontent.com/iZwB2p3rX7D7h-4QWSmKXy-_4FBRVCB8A8vrGwQduZzqfU-1ZMewoumgw3HOTiOsrN3Ax_vnOuUGRFnWuIbGoOWpAnpCoxGqvxg)
 
 ## Contributions
 
@@ -81,7 +83,9 @@ O Jogo da Vida é um exemplo clássico de autômato celular, onde cada célula e
 
 ## Exemplos
 
-Imagens ou GIFs de exemplos de padrões interessantes, como o Glider, o Oscillator, e o Still Life, para ilustrar o funcionamento do jogo.
+![alt text](https://lh3.googleusercontent.com/C6HkzTZOrAtlLPkY6tHcUQMX1BoahTG_Gt4ueO_G0dV-J6dqSbT7ElD6Ddg_vg2cNI1D9cIBQMUNaPWIkPrqGVpbE9RY_9Q3Fn0k)
+
+![alt text](https://lh3.googleusercontent.com/iZwB2p3rX7D7h-4QWSmKXy-_4FBRVCB8A8vrGwQduZzqfU-1ZMewoumgw3HOTiOsrN3Ax_vnOuUGRFnWuIbGoOWpAnpCoxGqvxg)
 
 ## Contribuições
 
@@ -90,7 +94,3 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir issues e enviar 
 ## Licença
 
 Este projeto está licenciado sob a [MIT License](LICENSE).
-
----
-
-Sinta-se à vontade para ajustar conforme necessário, adicionando informações específicas sobre as tecnologias que você está usando ou quaisquer outras características exclusivas do seu projeto.
