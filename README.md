@@ -22,7 +22,7 @@ The Game of Life is a classic example of a cellular automaton where each cell on
 
 1. Clone this repository:
    ```sh
-   [git clone https://github.com/your-username/game-of-life.git](https://github.com/Joao-Pedro-m/Game_of_life_in_C.git)
+   git clone https://github.com/your-username/game-of-life.git
    ```
 
 2. Navigate to the project directory:
@@ -71,7 +71,7 @@ O Jogo da Vida é um exemplo clássico de autômato celular, onde cada célula e
 
 1. Clone este repositório:
    ```sh
-   [git clone https://github.com/seu-usuario/jogo-da-vida.git](https://github.com/Joao-Pedro-m/Game_of_life_in_C.git)
+   git clone https://github.com/seu-usuario/jogo-da-vida.git
    ```
 
 2. Navegue até o diretório do projeto:
